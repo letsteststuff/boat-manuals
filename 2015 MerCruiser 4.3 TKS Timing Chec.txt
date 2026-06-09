@@ -1,0 +1,60 @@
+2015 MerCruiser 4.3 TKS Timing Check Procedure
+(Service Manual #32)
+
+References:
+
+Section 1C, Page 1C-4 – Engine Specifications
+Section 4B, Page 4B-2 – Timing Light (Special Tool)
+Section 4B, Page 4B-21 – Thunderbolt V Models Timing
+Section 4B, Pages 4B-13 through 4B-15 – Distributor Installation
+
+Specifications:
+
+Idle Speed: 600 RPM (Neutral)
+Base Timing: 10° BTDC
+Firing Order: 1-6-5-4-3-2
+WOT RPM: 4400-4800
+
+Procedure:
+
+Warm engine to normal operating temperature.
+Verify idle speed is approximately 600 RPM in neutral.
+Hook timing light to:
+#1 spark plug wire
+Battery +
+Battery -
+Highlight the timing mark and pointer with white paint or chalk.
+Start engine and observe timing.
+BEFORE MOVING ANYTHING:
+Record timing value.
+Take a picture of timing mark if possible.
+IMPORTANT:
+Read Service Manual #32, Page 4B-21 (Thunderbolt V Models Timing).
+Verify whether the ignition module must be placed into Base Timing Mode before checking or adjusting timing.
+Mercury references Base Timing Mode for Thunderbolt V ignition systems elsewhere in the service information.
+DO NOT adjust distributor timing until this procedure has been verified.
+If timing is NOT 10° BTDC:
+Follow the Base Timing Mode procedure from Page 4B-21.
+Loosen distributor hold-down slightly.
+Rotate distributor until timing reads 10° BTDC.
+Tighten distributor hold-down (18 lb-ft).
+Recheck timing.
+If a large distributor movement is required:
+Verify distributor installation.
+Bring #1 cylinder to TDC compression.
+Confirm distributor indexing per Pages 4B-13 through 4B-15.
+Verify distributor is not installed one tooth off.
+Water test:
+Warm engine.
+Gradually accelerate.
+Verify smooth power.
+Verify WOT RPM 4400-4800.
+Listen for pinging or detonation.
+
+Things to verify while there:
+
+Plug wires fully seated
+Firing order 1-6-5-4-3-2 clockwise
+Carburetor reaches full throttle
+Vacuum hoses connected
+Distributor cap and rotor in good condition
